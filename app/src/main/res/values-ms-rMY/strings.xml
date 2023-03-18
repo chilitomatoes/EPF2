@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Tetapan</string>
+    <string name="menu_home">Tentang</string>
+    <string name="menu_gallery">Rumah</string>
+    <string name="menu_dividend">Dividen</string>
+    <string name="menu_investment">Laburan</string>
+</resources>
